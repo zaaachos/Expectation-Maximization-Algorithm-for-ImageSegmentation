@@ -15,6 +15,7 @@ Then we apply the EM algorithm to segment the [im.jpg](https://github.com/zaaach
 * Python
 * NumPy
 * Matplotlib
+* scipy
 * PIL 
 
 ## Segmented Images
