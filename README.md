@@ -13,7 +13,7 @@ Then we apply the EM algorithm to segment the im.jpg image.
 
 ## Segmented Images
 * K = 1 
-* ![K=1](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_1.jpg)
+![K=1](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_1.jpg)
 
 * K = 2
 ![K=2](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_2.jpg)
