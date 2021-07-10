@@ -11,6 +11,12 @@ Then we apply the EM algorithm to segment the [im.jpg](https://github.com/zaaach
 * Reconstruction error at K = 32 -->  0.016766211379170327
 * Reconstruction error at K = 64 -->  0.013193268116753292
 
+## Dependencies
+* Python
+* NumPy
+* Matplotlib
+* PIL 
+
 ## Segmented Images
 * K = 1 
 
