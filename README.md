@@ -10,3 +10,19 @@ Then we apply the EM algorithm to segment the im.jpg image.
 * Reconstruction error at K = 16 -->  0.024316967623008768
 * Reconstruction error at K = 32 -->  0.016766211379170327
 * Reconstruction error at K = 64 -->  0.013193268116753292
+
+## Segmented Images
+* K = 1
+![K=1](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_1.jpg)
+
+* K = 2
+![K=2](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_2.jpg)
+
+* K = 4
+![K=4](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_4.jpg)
+
+* K = 8
+![K=8](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_8.jpg)
+
+* K = 16
+![K=16](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_16.jpg)
