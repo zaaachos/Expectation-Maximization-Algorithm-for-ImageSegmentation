@@ -1,6 +1,6 @@
 # Expectation-Maximization-Algorithm-for-ImageSegmentation
 Academic project which refers to implementation of EM Algorithm, with modified Gaussian Mixtures.
-Then we apply the EM algorithm to segment the im.jpg image.
+Then we apply the EM algorithm to segment the [im.jpg](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/im.jpg) image.
 
 ## Reconstruction Errors we got for different Ks
 * Reconstruction error at K = 1 -->  0.17303304487093304
