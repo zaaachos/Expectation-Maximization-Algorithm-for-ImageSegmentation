@@ -17,13 +17,25 @@ Then we apply the EM algorithm to segment the im.jpg image.
 ![K=1](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_1.jpg)
 
 * K = 2
+
 ![K=2](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_2.jpg)
 
 * K = 4
+
 ![K=4](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_4.jpg)
 
 * K = 8
+
 ![K=8](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_8.jpg)
 
 * K = 16
+
 ![K=16](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_16.jpg)
+
+* K = 32
+
+![K=32](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_32.jpg)
+
+* K = 64
+
+![K=64](https://github.com/zaaachos/Expectation-Maximization-Algorithm-for-ImageSegmentation/blob/main/CompressedImages/imageK_64.jpg)
