@@ -2,7 +2,7 @@
 Academic project which refers to implementation of EM Algorithm, with modified Gaussian Mixtures.
 Then we apply the EM algorithm to segment the im.jpg image.
 
-## Reconstruction Erros we got for different Ks
+## Reconstruction Errors we got for different Ks
 * Reconstruction error at K = 1 -->  0.17303304487093304
 * Reconstruction error at K = 2 -->  0.09146756998180702
 * Reconstruction error at K = 4 -->  0.053652006835015656
